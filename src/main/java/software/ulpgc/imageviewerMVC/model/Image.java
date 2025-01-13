@@ -1,4 +1,4 @@
-package software.ulpgc.imageviewer.model;
+package software.ulpgc.imageviewerMVC.model;
 
 public interface Image {
     <T> T bitmap();

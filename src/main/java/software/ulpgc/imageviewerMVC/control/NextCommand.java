@@ -1,6 +1,6 @@
-package software.ulpgc.imageviewer.control;
+package software.ulpgc.imageviewerMVC.control;
 
-import software.ulpgc.imageviewer.view.ImageDisplay;
+import software.ulpgc.imageviewerMVC.view.ImageDisplay;
 
 public class NextCommand implements Command {
     private ImageDisplay display;

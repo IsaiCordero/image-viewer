@@ -1,4 +1,4 @@
-package software.ulpgc.imageviewer.control;
+package software.ulpgc.imageviewerMVC.control;
 
 public interface Command {
     void execute();

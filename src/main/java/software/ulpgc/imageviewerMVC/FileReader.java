@@ -1,11 +1,10 @@
-package software.ulpgc.imageviewer;
+package software.ulpgc.imageviewerMVC;
 
-import software.ulpgc.imageviewer.model.Image;
-import software.ulpgc.imageviewer.view.ImageReader;
+import software.ulpgc.imageviewerMVC.model.Image;
+import software.ulpgc.imageviewerMVC.view.ImageReader;
 
 import javax.imageio.ImageIO;
 import java.io.File;
-import java.io.FileFilter;
 import java.io.FilenameFilter;
 import java.io.IOException;
 
